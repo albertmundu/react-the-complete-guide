@@ -9,3 +9,7 @@ console.log(months);
 months.splice(4, 1, "May");
 
 console.log(months);
+
+months.splice(0, 4, "Sep");
+
+console.log(months);
